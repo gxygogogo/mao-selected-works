@@ -51,10 +51,10 @@ mao-selected-works/
 Put the source PDFs somewhere stable. In this build, the files were:
 
 ```text
-/Volumes/GaoxyData/毛泽东选集1.pdf
-/Volumes/GaoxyData/毛泽东选集2.pdf
-/Volumes/GaoxyData/毛泽东选集3.pdf
-/Volumes/GaoxyData/毛泽东选集4.pdf
+毛泽东选集1.pdf
+毛泽东选集2.pdf
+毛泽东选集3.pdf
+毛泽东选集4.pdf
 ```
 
 Check that `pdftotext` is available:
@@ -66,10 +66,10 @@ command -v pdftotext
 Extract each PDF to temporary text:
 
 ```bash
-pdftotext -layout /Volumes/GaoxyData/毛泽东选集1.pdf /private/tmp/maoxuan_vol1.txt
-pdftotext -layout /Volumes/GaoxyData/毛泽东选集2.pdf /private/tmp/maoxuan_vol2.txt
-pdftotext -layout /Volumes/GaoxyData/毛泽东选集3.pdf /private/tmp/maoxuan_vol3.txt
-pdftotext -layout /Volumes/GaoxyData/毛泽东选集4.pdf /private/tmp/maoxuan_vol4.txt
+pdftotext -layout 毛泽东选集1.pdf /private/tmp/maoxuan_vol1.txt
+pdftotext -layout 毛泽东选集2.pdf /private/tmp/maoxuan_vol2.txt
+pdftotext -layout 毛泽东选集3.pdf /private/tmp/maoxuan_vol3.txt
+pdftotext -layout 毛泽东选集4.pdf /private/tmp/maoxuan_vol4.txt
 ```
 
 Inspect each extracted file:
