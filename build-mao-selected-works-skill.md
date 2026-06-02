@@ -110,7 +110,7 @@ title: 实践论
 volume: 1
 year: 1937
 date_text: 一九三七年七月
-source_pdf: /Volumes/GaoxyData/毛泽东选集1.pdf
+source_pdf: 毛泽东选集1.pdf
 source_note: Extracted with pdftotext from the user-provided PDF; verify exact quotations against the PDF before citation.
 verified: false
 ---
@@ -248,7 +248,7 @@ default_prompt: 用毛泽东选集研究 skill 帮我查找相关篇目、解释
 Run the skill validator:
 
 ```bash
-python3 /Users/gaoxinyu/.codex/skills/.system/skill-creator/scripts/quick_validate.py mao-selected-works
+python3 ~/.codex/skills/.system/skill-creator/scripts/quick_validate.py mao-selected-works
 ```
 
 Expected output:
@@ -277,7 +277,7 @@ cp -R mao-selected-works ~/.codex/skills/mao-selected-works
 Validate the installed copy:
 
 ```bash
-python3 /Users/gaoxinyu/.codex/skills/.system/skill-creator/scripts/quick_validate.py ~/.codex/skills/mao-selected-works
+python3 ~/.codex/skills/.system/skill-creator/scripts/quick_validate.py ~/.codex/skills/mao-selected-works
 ```
 
 Test the installed search script:
