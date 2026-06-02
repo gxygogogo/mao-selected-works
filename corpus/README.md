@@ -4,7 +4,7 @@ Markdown files extracted from user-provided PDFs. Exact quotations should be ver
 
 ## vol-1
 
-Source PDF: `/Volumes/GaoxyData/毛泽东选集1.pdf`
+Source PDF: `毛泽东选集1.pdf`
 
 - [1925-中国社会各阶级的分析.md](vol-1/1925-中国社会各阶级的分析.md)
 - [1927-湖南农民运动考察报告.md](vol-1/1927-湖南农民运动考察报告.md)
@@ -26,7 +26,7 @@ Source PDF: `/Volumes/GaoxyData/毛泽东选集1.pdf`
 
 ## vol-2
 
-Source PDF: `/Volumes/GaoxyData/毛泽东选集2.pdf`
+Source PDF: `毛泽东选集2.pdf`
 
 - [1937-上海太原失陷以后抗日战争的形势和任务.md](vol-2/1937-上海太原失陷以后抗日战争的形势和任务.md)
 - [1937-为动员一切力量争取抗战胜利而斗争.md](vol-2/1937-为动员一切力量争取抗战胜利而斗争.md)
@@ -71,7 +71,7 @@ Source PDF: `/Volumes/GaoxyData/毛泽东选集2.pdf`
 
 ## vol-3
 
-Source PDF: `/Volumes/GaoxyData/毛泽东选集3.pdf`
+Source PDF: `毛泽东选集3.pdf`
 
 - [1941-关于反法西斯的国际统一战线.md](vol-3/1941-关于反法西斯的国际统一战线.md)
 - [1941-农村调查的序言和跋.md](vol-3/1941-农村调查的序言和跋.md)
@@ -108,7 +108,7 @@ Source PDF: `/Volumes/GaoxyData/毛泽东选集3.pdf`
 
 ## vol-4
 
-Source PDF: `/Volumes/GaoxyData/毛泽东选集4.pdf`
+Source PDF: `毛泽东选集4.pdf`
 
 - [1945-一九四六年解放区工作的方针.md](vol-4/1945-一九四六年解放区工作的方针.md)
 - [1945-中共中央关于同国民党进行和平谈判的通知.md](vol-4/1945-中共中央关于同国民党进行和平谈判的通知.md)
