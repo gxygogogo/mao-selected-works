@@ -1,0 +1,3 @@
+display_name: 毛泽东选集研究
+short_description: Study, search, cite, and apply methods from 毛泽东选集.
+default_prompt: 用毛泽东选集研究 skill 帮我查找相关篇目、解释概念、核对引文，或把我遇到的问题映射成可执行的方法。
